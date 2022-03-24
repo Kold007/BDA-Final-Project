@@ -1,0 +1,5 @@
+Model,Score
+SVM,79.2
+KNN,89.2
+RF,93.4
+Tree,95
