@@ -1,2 +1,2 @@
 # BDA-Final-Project
-Test
+This repository will contain code on our final exam project in BDA. 
